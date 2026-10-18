@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="ap-icon-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8ba4ff"/>
+      <stop offset="0.52" stop-color="#c3b4ff"/>
+      <stop offset="1" stop-color="#ffaccd"/>
+    </linearGradient>
+    <linearGradient id="ap-icon-body" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e7e0ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#ap-icon-bg)"/>
+  <path d="M21 30 L19 18 L30 26 Z" fill="#f4efff" stroke="#cfc4f5" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M43 30 L45 18 L34 26 Z" fill="#f4efff" stroke="#cfc4f5" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M22.6 28 L21.6 21.6 L27 26.4 Z" fill="#ffc9dd"/>
+  <path d="M41.4 28 L42.4 21.6 L37 26.4 Z" fill="#ffc9dd"/>
+  <ellipse cx="32" cy="38" rx="17" ry="15" fill="url(#ap-icon-body)" stroke="#cfc4f5" stroke-width="1.6"/>
+  <ellipse cx="26.5" cy="36.5" rx="2.6" ry="3.4" fill="#3b3552"/>
+  <ellipse cx="37.5" cy="36.5" rx="2.6" ry="3.4" fill="#3b3552"/>
+  <circle cx="27.5" cy="35.2" r="0.9" fill="#ffffff"/>
+  <circle cx="38.5" cy="35.2" r="0.9" fill="#ffffff"/>
+  <ellipse cx="21.5" cy="42" rx="3" ry="1.8" fill="#ffc2d1" opacity="0.8"/>
+  <ellipse cx="42.5" cy="42" rx="3" ry="1.8" fill="#ffc2d1" opacity="0.8"/>
+  <path d="M29.5 43 q2.5 2.6 5 0" stroke="#5a5170" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+</svg>
